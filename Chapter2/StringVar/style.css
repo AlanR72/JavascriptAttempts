@@ -1,0 +1,16 @@
+#content{
+    margin: 50px auto;
+    border: 5px solid black;
+    width: 50%;
+    
+    background-color: beige;
+    font-size: 2rem;
+    padding: 0.5em;
+    text-align: center;
+    line-height: 50px;
+}
+#note{
+    background-color: gray;
+    color:azure;
+    border-radius: 7.5%;
+}
