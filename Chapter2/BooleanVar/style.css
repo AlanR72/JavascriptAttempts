@@ -1,0 +1,12 @@
+
+main{
+    background-color: #c9d2cf;
+    font-size: 3rem;
+    padding: 0.5em;
+    width: fit-content;
+    margin: 20px auto;
+    height: 100px;
+    text-align: left;
+    border: 3px solid black;
+    line-height: 50px;
+}
