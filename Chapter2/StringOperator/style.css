@@ -1,0 +1,15 @@
+h1{
+    margin: 30px auto;
+    text-align: center;
+}
+div{
+    border: double 5px black;
+    width: 50%;
+    height: 100px;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 2em;
+    align-items:center;
+    text-align: center;
+    line-height: 90px;
+}
