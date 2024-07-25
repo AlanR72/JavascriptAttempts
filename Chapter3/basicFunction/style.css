@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+#box{
+    width: 60%;
+    height: 150px;
+    border: double 3px black;
+    margin: 20px auto;
+    font-size: 2em;
+    padding: 0.5em;
+    background-color:bisque;
+}
