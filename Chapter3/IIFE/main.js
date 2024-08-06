@@ -2,7 +2,7 @@ var area = {function() {
     var width = 3;
     var height = 5;
     return width * height;
-}()};
+}}();//Parentheses can be placed between the last curly braces
 
 /* IIFE - Immediately Invoked Function Expression */
 /* IIFE's are not given a name, instead are 
