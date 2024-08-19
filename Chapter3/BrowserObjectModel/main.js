@@ -34,5 +34,9 @@ el.innerHTML = msg;
 
 alert('Current page: ' + window.location);
 
+console.log(window.innerWidth)
+console.log(window.innerHeight)
+
+
 
 
