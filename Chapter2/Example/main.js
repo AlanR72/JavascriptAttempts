@@ -3,6 +3,7 @@ var title = 'Alan ';
 var message = 'please check your order :';
 
 var welcome = greeting + title + message;
+
 var elWelcome = document.getElementById('message');
 elWelcome.textContent = welcome;
 
