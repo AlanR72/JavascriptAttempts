@@ -15,3 +15,5 @@ function immediately. */
 
 /*Anonymous functions and IIFE's are often used for
 code that only has to run once amongst other uses. */
+
+console.log(area)

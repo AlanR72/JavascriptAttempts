@@ -15,3 +15,5 @@ area = function(width, height) {
 };
 
 var size = area(3,5);
+
+console.log(size)

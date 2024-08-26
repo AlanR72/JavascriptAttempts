@@ -25,5 +25,6 @@ var volumeOne = getSize(3,5,6)[1];
 //areaOne returns 15 (3*5)
 //volumeOne returns 90 (3*5*6)
 
-
+console.log(areaOne)
+console.log(volumeOne)
 
