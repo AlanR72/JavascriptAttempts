@@ -21,7 +21,7 @@ var originalNumber = 10.6789;
 If you then add 1 it generates a number between 1 and 10*/
 var randomNumber = Math.floor((Math.random() * 10) + 1);
 
-var msg = '<h2>Original Number 10.6789</h2>';
+var msg = '<h2 id="heading">Original Number 10.6789</h2>';
 msg += '<h2>Math.round(2)</h2><p>' + Math.round(originalNumber) + '</p>';
 msg += '<h2>Math.sqrt()</h2><p>' + Math.sqrt(originalNumber) + '</p>';
 msg += '<h2>Math.ceil()</h2><p>' + Math.ceil(originalNumber) + '</p>';
