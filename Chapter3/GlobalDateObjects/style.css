@@ -1,0 +1,10 @@
+h1{
+    text-align: center
+}
+main{
+    border: solid black 3px;
+    height: 400px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
