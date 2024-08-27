@@ -10,4 +10,5 @@ h1{
 }
 #hotelName{
     text-align: center;
+    display: inline-block;
 }
