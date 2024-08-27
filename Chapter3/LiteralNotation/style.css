@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#info{
+    border: solid black 3px;
+    margin: 0 auto;
+    height: 300px;
+    width: 50%;
+}
+#hotelName{
+    text-align: center;
+    font-size: 2rem;
+    border-top: 2px grey solid;
+    border-bottom: 2px grey solid;
+    border-width: 20%;
+    padding: 0.2em;
+}
+#roomsLeft{
+    font-size: 3rem;
+    text-align: center;
+    padding: 0.2rem;
+    margin-top: 20px;
+}
+p{
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.2rem;
+    border-bottom: solid grey 2px;
+    padding-bottom: 20px;
+}
