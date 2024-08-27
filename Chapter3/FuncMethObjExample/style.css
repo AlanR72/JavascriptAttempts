@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+#info{
+    border: solid 3px black;
+    margin: 0 auto;
+    height: 500px;
+    width: 50%;
+    text-align: center;
+}
+#hotelName{
+    text-align: center;
+}
